@@ -5,22 +5,20 @@
 
 - 😉 Pseudo: **</ st.code >**
 
-- 👨‍💻 All of my projects are available at [https://stcode.camencorp.com](https://stcode.camencorp.com)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://stcode.camencorp.com)
 
 - 🎓 Studying [Computer Science](https://www.uni-bremen.de) at the University Of Bremen, Germany
 
 - 🌱 I’m currently learning [NodeJS, NextJS and MongoDB](NodeJS, NextJS and MongoDB)
 
-- 💬 Ask me about **reactJS, reactNative, PHP**
+- 💬 Ask me about **ReactJS, ReactNative, PHP, API Rest**
 
-- 📫 How to reach me:
-      Email: [thierrysitio@gmail.com](thierrysitio@gmail.com)
-      Linkedin: SitioThierry
+- 📫 How to reach me: <br>Email: [thierrysitio@gmail.com](thierrysitio@gmail.com) <br>Linkedin: SitioThierry
 
-- ⚡ My passions are **basketball, football and music**
+- ⚡ My passions are **basketball, football and music...**
 
 
-<h3 align="left">🌐 Socials:</h3>
+<h2 align="left">🌐 Socials:</h2>
 <p align="left">
 <a href="https://twitter.com/sitiothierry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sitiothierry" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jean thierry sitio nouka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean thierry sitio nouka" height="30" width="40" /></a>
