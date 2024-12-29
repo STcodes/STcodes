@@ -32,9 +32,9 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stcodes&show_icons=true&locale=en&layout=compact" alt="stcodes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stcodes&show_icons=true&locale=en&layout=compact&theme=radical" alt="stcodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stcodes&show_icons=true&locale=en" alt="stcodes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stcodes&show_icons=true&locale=en&theme=radical" alt="stcodes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stcodes&" alt="stcodes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stcodes&theme=radical" alt="stcodes" /></p>
 
