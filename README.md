@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stcodes&label=Profile%20views&color=0e75b6&style=flat" alt="stcodes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stcodes" alt="stcodes" /></a> </p>
-
 - 😉 Pseudo: **</ st.code >**
 
 - 👨‍💻 All of my projects are available at [https://stcode.camencorp.com](https://stcode.camencorp.com)
