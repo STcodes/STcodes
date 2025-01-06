@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ReactJS, ReactNative, PHP, API Rest**
 
-- 📫 How to reach me: <br>Email: [thierrysitio@gmail.com](mailto:thierrysitio@gmail.com) <br>Linkedin: @SitioThierry
+- 📫 How to reach me: <br>Email: [thierrysitio@gmail.com](mailto:thierrysitio@gmail.com) <br>Linkedin: [@SitioThierry](https://www.linkedin.com/in/jean-thierry-sitio-nouka-0193b2273/)
 
 - ⚡ My passions are **basketball, football and music...**
 
