@@ -5,7 +5,7 @@
 
 - 😉 Pseudo: **</ st.code >**
 
-- 👨‍💻 All of my projects are available on my [Portfolio](https://stcode.camencorp.com)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://stcode.de)
 
 - 🎓 Studying [Computer Science](https://www.uni-bremen.de) at the University Of Bremen, Germany
 
